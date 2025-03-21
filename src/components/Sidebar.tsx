@@ -100,8 +100,8 @@ const Sidebar = ({
           <Image 
             src="/gateway-logo.png" 
             alt="Gateway Ticketing Systems"
-            width={70}
-            height={70}
+            height={70} 
+            width={215}
           />
       </Box>
       <Box sx={{ p: 0 }}>
